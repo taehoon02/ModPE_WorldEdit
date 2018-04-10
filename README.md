@@ -1,4 +1,4 @@
-![WorldEdit](https://raw.githubusercontent.com/taehoon02/WorldEdit/master/res/images/gui/title_1.2.png)
+![WorldEdit](https://raw.githubusercontent.com/taehoon02/ModPE_WorldEdit/master/res/images/gui/title_1.2.png)
 
 ## for Korean :
 > ### 소개
