@@ -14,7 +14,7 @@
 >> 관련 문의는 제작자의 블로그 및 메일로 연락주시길 바랍니다.
 >>
 >> * [블로그](https://cookdeveloper.tistory.com)
->> * [메일](taevel02@gmail.com)
+>> * [메일](mailto:taevel02@gmail.com)
 
 ## for English :
 > ### Introduction
