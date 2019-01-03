@@ -29,5 +29,5 @@
 > ### Contact Information
 >> Please contact the manufacturer's blog and email for related inquiries.
 >>
->> * [My blog](https://blog.naver.com/kth020315)
->> * [My E-mail] kth020315@naver.com
+>> * [My blog](https://cookdeveloper.tistory.com)
+>> * [My E-mail](mailto:taevel02@gmail.com)
